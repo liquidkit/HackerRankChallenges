@@ -1,6 +1,7 @@
+*.class
 .idea
 out
-HackerRankChallenges.iml*.class
+HackerRankChallenges.iml
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
